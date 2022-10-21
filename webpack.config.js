@@ -1,6 +1,6 @@
 module.exports = {
   devtool: "eval-nosources-source-map",
-  mode: "none",
+  mode: "production",
   module: {
     rules: [
       {
